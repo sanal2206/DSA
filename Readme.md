@@ -2,7 +2,7 @@
 
 **Target Companies:** Google, Amazon, Microsoft, Meta, Uber, Atlassian  
 **Duration:** 12 Months  
-**Language:** Python (recommended) / Java  
+**Language:** Python 
 **Daily Commitment:** 2–4 hours  
 **Goal:** Interview-ready problem solver with strong fundamentals and pattern recognition
 
